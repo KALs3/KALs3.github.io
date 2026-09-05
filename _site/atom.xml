@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>KALs blog</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2026-09-05T18:22:12+00:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Khaled</name>
+   <email>your-email@email.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>PASS programming as slop</title>
+   <link href="http://localhost:4000/PASS programming as slop/"/>
+   <updated>2026-09-05T18:16:39+00:00</updated>
+   <id>http://localhost:4000/testing-post</id>
+   <content type="html">&lt;p&gt;In the modern day of agents, vibe coding, TikTok tech influencers, and attention-seeking chumps, we are introduced to a new service called &lt;strong&gt;Programming as Slop&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Programming / coding / building a 6-figure app / next Y Combinator-funded startup / TikTok low-life Claude addicts&lt;/p&gt;
+
+&lt;p&gt;are all just side effects of the modern social media attention-gambling buzzwords being thrown around left and right, on the premise of making you a 6-figure salary or turning you into the next tech founder.&lt;/p&gt;
+
+&lt;p&gt;It’s a shame that this is what the space is about now, and it’s a shame what happened to it in the span of just a few years, starting with the overhiring during COVID, to making everyone learn how to “code,” to whatever pyramid scheme they are selling you today.&lt;/p&gt;
+
+&lt;p&gt;Every time I go on YouTube to watch something tech-related, all I find is pure slop, pure attention-grabbing garbage.&lt;/p&gt;
+
+&lt;p&gt;Every time I go on X, it sounds like a competition for the worst takes ever.&lt;/p&gt;
+
+&lt;p&gt;It’s all attention-seeking garbage with no real benefit or essence.&lt;/p&gt;
+
+&lt;p&gt;And maybe it’s my mistake for looking for something meaningful in social media, but still, every time I’m greeted with any of this stupidity, any of these stupid takes, or merely the words that someone decided to put next to each other with the sole goal of making someone gag while reading whatever they are saying.&lt;/p&gt;
+
+&lt;p&gt;And maybe that’s the real problem. The means have become the product.&lt;/p&gt;
+
+&lt;p&gt;Programming used to be: &lt;em&gt;I want to build something, so I need to understand computers, and I need to learn how to build it.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Now it’s: &lt;em&gt;I want attention, so I need a technological narrative that gets attention.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;And then it becomes: &lt;em&gt;I want money, so I need to sell the dream.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;AI + SaaS + agents + passive income + 6 figures + “become a founder.”&lt;/p&gt;
+
+&lt;p&gt;The software itself almost becomes incidental.&lt;/p&gt;
+
+&lt;p&gt;And don’t get me wrong, I’m not against AI-assisted programming. Using Claude to help you write software doesn’t magically make what you’re doing not software engineering.&lt;/p&gt;
+
+&lt;p&gt;If you use Claude to help you understand an unfamiliar API, investigate a bug, write tests, refactor some ugly code, or implement something you already understand, you’re still engineering software.&lt;/p&gt;
+
+&lt;p&gt;The problem is when the understanding is replaced with output.&lt;/p&gt;
+
+&lt;p&gt;When you tell Claude, &lt;em&gt;“build me a SaaS that makes $10k a month,”&lt;/em&gt; accept whatever comes out, deploy it, and then call yourself a software engineer because you managed to get an AI to produce 20,000 lines of code.&lt;/p&gt;
+
+&lt;p&gt;That’s not the same thing.&lt;/p&gt;
+
+&lt;p&gt;Building software with Claude isn’t inherently not software engineering. &lt;strong&gt;Building software without understanding what the fuck you’re building is.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a difference between:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I used Claude to help me engineer a system.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;and:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I told Claude what app I wanted and accepted whatever came out.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The second one is much closer to what I mean by &lt;strong&gt;Programming as Slop&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Because programming isn’t just producing code.&lt;/p&gt;
+
+&lt;p&gt;Software engineering isn’t just making something that runs.&lt;/p&gt;
+
+&lt;p&gt;It’s understanding the system you’re building, knowing why it works, knowing why it doesn’t work when it breaks, being able to reason about its behavior, understanding its trade-offs, and having enough knowledge to tell when the code you’re looking at is complete garbage.&lt;/p&gt;
+
+&lt;p&gt;You can’t vibe-code your way into understanding why a condition variable releases a mutex while waiting.&lt;/p&gt;
+
+&lt;p&gt;You can’t genuinely understand an inverted index because Claude generated an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;unordered_map&amp;lt;string, vector&amp;lt;uint64_t&amp;gt;&amp;gt;&lt;/code&gt; for you.&lt;/p&gt;
+
+&lt;p&gt;You can’t learn systems programming by memorizing generated code.&lt;/p&gt;
+
+&lt;p&gt;At some point you have to build the mental model yourself.&lt;/p&gt;
+
+&lt;p&gt;And that’s the part I think we’re slowly losing.&lt;/p&gt;
+
+&lt;p&gt;The technology has become so accessible that the ability to produce an output is being confused with the ability to understand the thing being produced.&lt;/p&gt;
+
+&lt;p&gt;And social media makes this ten times worse because the thing that gets rewarded isn’t necessarily understanding.&lt;/p&gt;
+
+&lt;p&gt;It’s engagement.&lt;/p&gt;
+
+&lt;p&gt;A 45-minute explanation of memory ordering, cache locality, or why a particular concurrency bug happens is never going to compete with:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“THIS AI AGENT JUST REPLACED 10 SOFTWARE ENGINEERS 🤯”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The latter gives you fear, curiosity, outrage, and aspiration in one fucking thumbnail.&lt;/p&gt;
+
+&lt;p&gt;So that’s what gets produced.&lt;/p&gt;
+
+&lt;p&gt;And then we wonder why every tech feed feels like the same five buzzwords being thrown into a blender.&lt;/p&gt;
+
+&lt;p&gt;Agents.&lt;/p&gt;
+
+&lt;p&gt;Vibe coding.&lt;/p&gt;
+
+&lt;p&gt;SaaS.&lt;/p&gt;
+
+&lt;p&gt;Founder.&lt;/p&gt;
+
+&lt;p&gt;AI engineer.&lt;/p&gt;
+
+&lt;p&gt;10x developer.&lt;/p&gt;
+
+&lt;p&gt;6 figures.&lt;/p&gt;
+
+&lt;p&gt;Passive income.&lt;/p&gt;
+
+&lt;p&gt;Build in public.&lt;/p&gt;
+
+&lt;p&gt;Repeat.&lt;/p&gt;
+
+&lt;p&gt;Repeat.&lt;/p&gt;
+
+&lt;p&gt;Repeat.&lt;/p&gt;
+
+&lt;p&gt;It’s programming turned into content.&lt;/p&gt;
+
+&lt;p&gt;It’s software engineering turned into a lifestyle.&lt;/p&gt;
+
+&lt;p&gt;And technology turned into a fucking casino where everyone is gambling for attention.&lt;/p&gt;
+
+&lt;p&gt;Programming is supposed to be about understanding machines.&lt;/p&gt;
+
+&lt;p&gt;Software engineering is supposed to be about building things that actually work.&lt;/p&gt;
+
+&lt;p&gt;And learning this shit is supposed to involve actually &lt;strong&gt;learning this shit.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No, generating code isn’t inherently programming as slop.&lt;/p&gt;
+
+&lt;p&gt;But confusing generated output with understanding?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;That’s programming as slop.&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

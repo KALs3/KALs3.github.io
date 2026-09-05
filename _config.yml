@@ -1,22 +1,22 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
+site: KAl Blogs
+title: KALs blog
 keywords: ephesus, blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  welcome to my cave away from what you guys know as civilization "Social media"
 lang: en-US
-timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
+timezone:  Africa/cairo
+repo: https://github.com/KALs3/KALs3.github.io # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
 
 # Author settings
 author:
-  name: John Doe
-  bio: Sample Bio
-  picture: assets/images/profile.jpg 
-  github: github_username # github username
+  name: Khaled
+  bio: Software developer, AI prompter, and a bad writer who also loves music and photography.
+  picture: assets/images/me.jpg 
+  github: KALs # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   instagram: instagram_username # instagram username

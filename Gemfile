@@ -10,3 +10,11 @@ gem 'wdm', '>= 0.1.0'
 
 # update ruby version
 gem 'webrick'
+
+gem "logger"
+
+gem"csv"
+gem "base64"
+gem "csv"
+gem "mutex_m"
+gem "bigdecimal"
