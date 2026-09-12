@@ -9,7 +9,18 @@
     --border-color: #4a4a46;
     --accent-color: #9c57d9;
 }
+/* RTL Specific Overrides */
+html[dir="rtl"] body {
+  font-family: 'Tajawal', 'Cairo', sans-serif; /* Example Arabic fonts */
+}
 
+html[dir="rtl"] .sidebar, 
+html[dir="rtl"] .navigation {
+  /* Flip specific layout properties here */
+  float: right; 
+  margin-left: 0;
+  margin-right: 20px;
+}
 body{
   font-family: 'Source Serif 4', Georgia, serif;
   font-weight: 400;
